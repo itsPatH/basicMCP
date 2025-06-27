@@ -32,16 +32,15 @@ npm install
 npx ts-node main.ts   
 ```
 Nota: Este servidor espera ser utilizado por un cliente MCP compatible (como Claude con soporte MCP habilitado). Si no tienes un cliente MCP, el servidor quedará esperando conexión.
-🌐 Alternativa para Pruebas Locales (Opcional)
+## 🌐 Alternativa para Pruebas Locales (Opcional)
 Puedes extender este proyecto para agregar un servidor HTTP local y probar la herramienta sin un cliente MCP. Ejemplo de esto disponible en la rama local-test.
-⚠️ Advertencias
+## ⚠️ Advertencias
 ⚡ Este proyecto es solo para fines educativos.
 ⚡ No está pensado para entornos de producción.
 ⚡ Si amplías el proyecto, no subas archivos con claves privadas o información sensible.
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT. Eres libre de usarlo, modificarlo o distribuirlo para aprendizaje.
 
-✨ Créditos
-Basado en la documentación oficial de Model Context Protocol.
-
-Uso de APIs públicas de Open-Meteo.
+## ✨ Créditos
+- Documentación oficial de Model Context Protocol: https://github.com/modelcontextprotocol .
+- Uso de APIs públicas de Open-Meteo.
